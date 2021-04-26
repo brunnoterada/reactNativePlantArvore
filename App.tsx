@@ -10,7 +10,7 @@ export default function App(){
 
   const[fontsLoaded] = useFonts({
     Jost_400Regular,
-    Jost_600SemiBold,
+    Josst_600SemiBold,
   })
 
   if(!fontsLoaded){
